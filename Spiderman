@@ -10,5 +10,5 @@
     Spiderman
 </p>
 </body>
-<img src="spiderman.jpeg"/>
+<img src="spiderman.jpeg" alt="a picture of spiderman">
 </html>
